@@ -12,6 +12,7 @@
     "eslint-plugin-react": "3.12.0",
     "react": "^15.1.0",
     "react-native": "0.27.1",
-    "react-native-swipeout": "git+https://github.com/magrinj/react-native-swipeout"
+    "react-native-swipeout": "git+https://github.com/magrinj/react-native-swipeout",
+    "redux": "^3.5.2"
   }
 }
